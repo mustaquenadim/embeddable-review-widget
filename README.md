@@ -1,5 +1,5 @@
 # embeddable-review-widget
 
 ```
-https://github.com/mustaquenadim/embeddable-review-widget/blob/main/dist/index.js
+https://cdn.jsdelivr.net/gh/mustaquenadim/embeddable-review-widget@main/dist/index.js
 ```
