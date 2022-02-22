@@ -167,7 +167,7 @@ function revewWidget() {
   reviewWidget.appendChild(widgetBody);
 
   Container.appendChild(reviewWidget);
-  document.body.appendChild(Container);
+  document.getElementById('revew-widget').appendChild(Container);
 
   // stylesheet
   const tailwindScript = document.createElement('script');
